@@ -1,11 +1,11 @@
 {
-  "name": "panes",
+  "name": "unite-panes",
   "version": "0.0.1",
   "authors": [
     "ippa lix <ippa@ippa.se>"
   ],
-  "description": "mobile flick/swipe-able panes with inertia",
-  "main": "panes.js",
+  "description": "Mobile flick/swipe-able HTML5 panes with inertia",
+  "main": "unite-panes.js",
   "keywords": [
     "panes",
     "swipeable",
@@ -19,7 +19,7 @@
     "interact": "*"
   },
   "license": "GPL",
-  "homepage": "http://github.com/ippa/panes",
+  "homepage": "http://github.com/ippa/unite-panes",
   "ignore": [
     "**/.*",
     "node_modules",
