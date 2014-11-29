@@ -19,7 +19,7 @@
     "interact": "*"
   },
   "license": "GPL",
-  "homepage": "http://github.com/ippa",
+  "homepage": "http://github.com/ippa/panes",
   "ignore": [
     "**/.*",
     "node_modules",
