@@ -1,0 +1,30 @@
+{
+  "name": "panes",
+  "version": "0.0.1",
+  "authors": [
+    "ippa lix <ippa@ippa.se>"
+  ],
+  "description": "mobile flick/swipe-able panes with inertia",
+  "main": "panes.js",
+  "keywords": [
+    "panes",
+    "swipeable",
+    "flickable",
+    "swipe",
+    "flick",
+    "inertia",
+    "mobile"
+  ],
+  "dependencies": {
+    "interact": "*"
+  },
+  "license": "GPL",
+  "homepage": "http://github.com/ippa",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
